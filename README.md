@@ -1,2 +1,2 @@
 # Musicapp_django3
-This is clone of Musicapp
+This is simple music app in django rest framework
